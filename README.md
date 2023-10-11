@@ -1,5 +1,5 @@
 # Portifólio
-## Projeto RocketSeat Dev Links
+## Projeto RocketSeat DevLinks
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 HTML e CSS,
